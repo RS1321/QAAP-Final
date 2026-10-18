@@ -1,0 +1,9 @@
+path,true,predicted,lung_heat_fraction,crop_fallback
+/kaggle/input/datasets/tawsifurrahman/covid19-radiography-database/COVID-19_Radiography_Dataset/COVID/images/COVID-1973.png,0,0,0.19244404137134552,False
+/kaggle/input/datasets/tawsifurrahman/covid19-radiography-database/COVID-19_Radiography_Dataset/COVID/images/COVID-3074.png,0,1,0.4980224072933197,False
+/kaggle/input/datasets/tawsifurrahman/covid19-radiography-database/COVID-19_Radiography_Dataset/Normal/images/Normal-8055.png,1,1,0.4666641354560852,False
+/kaggle/input/datasets/tawsifurrahman/covid19-radiography-database/COVID-19_Radiography_Dataset/Normal/images/Normal-5392.png,1,0,0.2278105467557907,False
+/kaggle/input/datasets/tawsifurrahman/covid19-radiography-database/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-2439.png,2,2,0.3481576442718506,False
+/kaggle/input/datasets/tawsifurrahman/covid19-radiography-database/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-1686.png,2,1,0.25351670384407043,False
+/kaggle/input/datasets/tawsifurrahman/covid19-radiography-database/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-613.png,3,3,0.26762232184410095,False
+/kaggle/input/datasets/tawsifurrahman/covid19-radiography-database/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1003.png,3,1,0.08572190254926682,False

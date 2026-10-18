@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, cite this software repository and the original methods and datasets listed in the report."
+title: "QAAP: quality-aware pulmonary image classification"
+type: software
+authors:
+  - family-names: Sudarshan
+    given-names: Rahul
+repository-code: "https://github.com/RS1321/QAAP-Final"
+url: "https://github.com/RS1321/QAAP-Final"
+abstract: >-
+  Research implementation of quality-aware preprocessing, frozen lung cropping,
+  convolutional classifiers and out-of-fold logistic stacking for four-class
+  chest radiograph classification, with calibration, external transfer analysis,
+  ablations, Grad-CAM and measured latency. Results describe one completed run.
+keywords:
+  - chest radiographs
+  - quality-aware preprocessing
+  - out-of-fold stacking
+  - reproducibility

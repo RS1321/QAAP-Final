@@ -1,0 +1,18 @@
+# The notebook is designed for a CUDA-enabled Kaggle PyTorch environment.
+# This is a dependency list, not a complete lock of the original runtime.
+# Recorded torch: 2.11.0+cu128; use a matching torchvision/CUDA build.
+timm==1.0.15
+kornia==0.7.4
+gdown==5.2.0
+grad-cam==1.5.5
+torch
+torchvision
+numpy
+pandas
+scipy
+scikit-learn
+opencv-python-headless
+Pillow
+matplotlib
+tqdm
+joblib

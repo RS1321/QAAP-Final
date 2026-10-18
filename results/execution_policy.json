@@ -1,0 +1,7 @@
+{
+  "model_parallel": "single",
+  "ssl_single_gpu": true,
+  "cudnn_autotune": false,
+  "loader_workers": 0,
+  "loader_pin_memory": false
+}

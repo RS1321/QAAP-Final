@@ -1,0 +1,9 @@
+dataset,attribute,auc_gap
+Montgomery,age_group,0.05067100811781655
+Montgomery,overall,
+Montgomery,sex,0.023576033009995334
+Montgomery,sex_age,0.12380952380952381
+Shenzhen,age_group,0.05711641594162864
+Shenzhen,overall,
+Shenzhen,sex,0.029143616615716628
+Shenzhen,sex_age,0.08689809049398078

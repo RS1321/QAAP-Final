@@ -1,0 +1,20 @@
+{
+  "rows": [
+    {
+      "backend": "reference",
+      "batch": 16,
+      "forward_backward_ms": 284.1416269999968,
+      "peak_extra_bytes": 803070976
+    },
+    {
+      "backend": "sparse",
+      "batch": 16,
+      "forward_backward_ms": 27.151629374998265,
+      "peak_extra_bytes": 587982848
+    }
+  ],
+  "selected": "sparse",
+  "torch": "2.11.0+cu128",
+  "device": "Tesla T4",
+  "scope": "Synthetic full LearnableQAAP forward/backward; not full-run speedup"
+}

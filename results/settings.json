@@ -1,0 +1,20 @@
+{
+  "seed": 42,
+  "folds": 5,
+  "batch": 32,
+  "workers": 2,
+  "ssl_epochs": 1,
+  "epochs": 5,
+  "lr": 0.0001,
+  "ssl_lr": 0.0003,
+  "queue": 65536,
+  "temperature": 0.2,
+  "momentum": 0.999,
+  "image_size": 224,
+  "run_ablations": true,
+  "implementation": "qaap-v3-optimized-1",
+  "channels_last": true,
+  "fused_adam": true,
+  "prep_backend": "sparse",
+  "benchmark_preprocessing": true
+}
